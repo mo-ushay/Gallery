@@ -1,4 +1,4 @@
-# images
+# Gallery
 
 ## Project setup
 ```
